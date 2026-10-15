@@ -1,0 +1,6 @@
+{
+  "name": "CINEWORLD+ | Memórias de Marta",
+  "description": "Plataforma oficial de streaming da CINEWORLD para exibição exclusiva do curta-metragem Memórias de Marta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
