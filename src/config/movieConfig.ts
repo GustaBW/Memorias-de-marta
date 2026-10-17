@@ -4,9 +4,9 @@
  * Vídeo oficial do curta-metragem "Memórias de Marta".
  */
 
-export const YOUTUBE_URL: string = "https://youtu.be/ftvKiYPwI_E";
-export const YOUTUBE_VIDEO_ID: string = "ftvKiYPwI_E";
-export const VIDEO_URL: string = "https://youtu.be/ftvKiYPwI_E";
+export const YOUTUBE_URL: string = "https://youtu.be/qLA-LJTGMvc";
+export const YOUTUBE_VIDEO_ID: string = "qLA-LJTGMvc";
+export const VIDEO_URL: string = "https://youtu.be/qLA-LJTGMvc";
 
 export interface MovieDetails {
   id: string;
